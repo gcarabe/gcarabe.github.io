@@ -3,7 +3,7 @@ title: Carabe Website
 description: 'Carabe Website'
 domain: gcarabe.github.io
 url: http://gcarabe.github.io
-baseurl: '/gcarabe.github.io/'
+#baseurl: '/gcarabe.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
