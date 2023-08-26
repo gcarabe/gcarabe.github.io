@@ -1,19 +1,20 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Carabe Website
+description: 'Carabe Website'
+domain: gcarabe.github.io
+url: http://gcarabe.github.io
+baseurl: '/gcarabe.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Carabe Labs'
+  email: administration@carabelabs.com
+  twitter_username: carabelabs
+  facebook_username: carabelabs
+  github_username:  carabelabs
+  linkedin_username:  carabelabs
 
 defaults:
   -
